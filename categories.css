@@ -1,18 +1,25 @@
-.col{border: 1px white solid;}
-.row{border:1px white solid;}
-.padding{padding-top: 25px;}
-.title{text-align: center;}
 
-.picture{
-  text-align:center;
+.padding {
+  padding-top: 25px;
 }
-.center{justify-content: center;}
+.title {
+  text-align: center;
+}
+
+.picture {
+  text-align: center;
+}
+.center {
+  justify-content: center;
+}
 
 .btn {
-width: 30%;
+  width: 30%;
 }
 
-.bo{margin-left:5%}
+.bo {
+  margin-left: 5%;
+}
 
 .boba {
   margin-left: 21%;
